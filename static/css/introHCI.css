@@ -32,3 +32,8 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.project{
+	background-color:LightSeaGreen;
+	margin-left: 20px;
+}
